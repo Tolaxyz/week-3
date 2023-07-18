@@ -1,0 +1,36 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: gainsboro;
+}
+p {
+  color: black;
+}
+h2 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+.container {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.575);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.575);
+}
+.navbar-brand {
+  font-size: 2rem;
+  margin-left: 30px;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+  color: gainsboro;
+}
+#nav-list a:hover {
+  background-color: gainsboro;
+  color: black;
+  border-radius: 10px;
+}
